@@ -1,0 +1,116 @@
+[CENTER][img]https://i.imgur.com/Nv9JCOH.jpg[/img]
+
+
+
+[CODE]/*
+
+ * Your warranty is now void.
+
+ *
+
+ * I am not responsible for bricked devices, dead SD cards,
+
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+
+ * do some research if you have any concerns about features included in this ROM
+
+ * before flashing it! YOU are choosing to make these modifications, and if
+
+ * you point the finger at me for messing up your device, I will laugh at you.
+
+ */[/CODE]
+
+
+
+[LEFT]
+
+[b][u]Introduction[/u][/b]
+
+Project Radiant is a custom ROM aiming to be original, we make our own features, we make our own UI. We have been around since February 2021 and have grown ever since. We support a variety of devices and try to update the ROM as frequently as we can, at the end we all are students and work on this as a hobby which can cause delays. The team is pretty small and we are always looking forward to more people joining us
+
+You can find ROM screenshots at: https://t.me/radiantscreenshots
+
+
+
+
+
+[b][u]Features[/u][/b]
+
+* Lots of theming options
+
+* Dynamically colored bootanimations
+
+* Custom UIs
+
+* Monet
+
+* A custom designed SUW
+
+* Custom designed Privacy Indicators
+
+* Constant additions of things like:
+
+    * QS Customizations
+
+    * Statusbar Customizations
+
+    * System tweaks
+
+    * New gestures
+
+    * UI changes
+
+    * Custom apps with fresh features
+
+* Tons of more misc. stuff!
+
+
+
+
+
+
+
+[b][u]Installation instructions[/u][/b]
+
+
+
+* Input
+
+* Device
+* Installation
+
+* Instructions
+
+
+
+
+
+
+
+[b][u]Download[/u][/b]
+
+[SIZE="3"][B]GApps included.[/B][/SIZE]
+[SIZE="4"][url="https://sourceforge.net/projects/projectradiant/files/"][b][u]Download here![/u][/b][/url][/SIZE]
+
+
+[SIZE="3"][url="https://t.me/ProjectRadiantChat"][b][u]ROM Support Group[/u][/b][/url][/SIZE]
+[SIZE="3"][url="https://t.me/MaitreyasChat"][b][u]Device Support Group[/u][/b][/url][/SIZE]
+
+
+* [b]Android version:[/b] 12
+* [b]Kernel:[/b] [url=]source[/url]
+* [b]Source code:[/b] [url=https://github.com/ProjectRadiant]https://github.com/ProjectRadiant[/url]
+
+
+
+
+
+[b][u]Thanks to:[/u][/b]
+
+* Our developers
+* Contributors
+* Testers
+* [url=https://github.com/ArrowOS]ArrowOS[/url]
+* [url=https://github.com/PixelExperience]Pixel Experience[/url]
+* Everyone we cherry picked from!
+[/LEFT]
