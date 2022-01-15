@@ -48,6 +48,12 @@ You can find ROM screenshots at: https://t.me/radiantscreenshots
 
 * Custom designed Privacy Indicators
 
+* Plain theme
+
+* System level pitchblack theme
+
+* Monet base picker
+
 * Constant additions of things like:
 
     * QS Customizations
@@ -62,7 +68,7 @@ You can find ROM screenshots at: https://t.me/radiantscreenshots
 
     * Custom apps with fresh features
 
-* Tons of more misc. stuff!
+* Tons of more misc. stuff like forcing small clock, etc!
 
 
 
