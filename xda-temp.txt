@@ -79,9 +79,6 @@ You can find ROM screenshots at: https://t.me/radiantscreenshots
 * [b]Source code:[/b] [url=https://github.com/ProjectRadiant]https://github.com/ProjectRadiant[/url]
 
 
-
-
-
 [b][u]Thanks to:[/u][/b]
 
 * Our developers
