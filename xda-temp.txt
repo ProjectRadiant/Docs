@@ -1,4 +1,4 @@
-[CENTER][img]https://i.imgur.com/Nv9JCOH.jpg[/img]
+[CENTER][img]https://github.com/ProjectRadiant/docs/blob/main/Untitled-1.png?raw=true[/img]
 
 
 
@@ -21,17 +21,12 @@
  */[/CODE]
 
 
-
 [LEFT]
-
 [b][u]Introduction[/u][/b]
 
 Project Radiant is a custom ROM aiming to be original, we make our own features, we make our own UI. We have been around since February 2021 and have grown ever since. We support a variety of devices and try to update the ROM as frequently as we can, at the end we all are students and work on this as a hobby which can cause delays. The team is pretty small and we are always looking forward to more people joining us
 
 You can find ROM screenshots at: https://t.me/radiantscreenshots
-
-
-
 
 
 [b][u]Features[/u][/b]
@@ -54,31 +49,12 @@ You can find ROM screenshots at: https://t.me/radiantscreenshots
 
 * Monet base picker
 
-* Constant additions of things like:
-
-    * QS Customizations
-
-    * Statusbar Customizations
-
-    * System tweaks
-
-    * New gestures
-
-    * UI changes
-
-    * Custom apps with fresh features
+* Constant additions of things like system tweaks, customisations, UI changes, custom apps with fresh featuresm etc.
 
 * Tons of more misc. stuff like forcing small clock, etc!
 
 
-
-
-
-
-
 [b][u]Installation instructions[/u][/b]
-
-
 
 * Input
 
@@ -86,11 +62,6 @@ You can find ROM screenshots at: https://t.me/radiantscreenshots
 * Installation
 
 * Instructions
-
-
-
-
-
 
 
 [b][u]Download[/u][/b]
