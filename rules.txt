@@ -1,0 +1,38 @@
+Maintainership Rules
+1. You **MUST** own the device. Blind and untested builds aren't allowed. Unified, and devices with minimal hardware changes are also allowed to be maintained. 
+2. You must have basic git (cherry-pick, squash, etc) knowledge.
+3. Your trees should be **clean** and should have **proper authorships** and commit names.
+4. Your device sources can be private but Kernel MUST be open source and it’s latest version needs to be pushed to our devices git. Regardless, even if your tree is private, it MUST be pushed on Radiant Devices GitHub Page.
+5. You **MUST** be SELinux enforcing. Permissive Can only be allowed only for first two releases, after which you must ship Enforcing builds. 
+6. Prebuilt kernels are only allowed **if your device does not have proper kernel sources**., You **MUSTN'T** ship a prebuilt kernel if you have working kernel sources available just because you save 5 minutes of build time.
+7. You should have some basic knowledge of reading logcats and managing most device releated errors/bugs. Whilst our maintainers are willingly ready to help, we expect you to learn things by yourself as well. 
+8. XDA threads are recommended but not mandatory. XDA Thread details are mentioned in Maintainer’s COC.
+9. Before we let you in, you’ll be going through a test conducted by our panel where you will be asked things related to git, general knowledge regarding ROM building etc. We do this to ensure that we’re taking Quality Maintainers. 
+10. We do not believe in misconducts with any of our team/maintainers and even Radiant community members and users. Users should get assistance, help from other community members too. If any COC is broken, we will have to take strict actions against you.
+11. You **MUST** meet all device related requirements as mentioned [here](requirements.md).
+If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/ProjectRadiantChat)
+
+
+Maintainer’s Code of Conduct:
+1. A Maintainer MUST be helpful and respectful towards community members, if multiple reports of misbehaviour are received or observed, a direct action will be taken on the maintainer. Trolling and having fun with community members is okay but as a maintainer it is YOUR DUTY to help users out.
+2. Maintainer MUST provide proper resources which are needed to flash/sideload the builds, eg. Adb Tools, Flashing Script, Recommended Recovery etc. These should either be on a direct link on the XDA Thread or can be saved in the Telegram Chat (if any)
+3. You can allow off-topic conversations in your group or even involve in one, but make sure you’re assisting people as well if someone needs genuine help.
+4. While you are having fun, do not indulge in fights with any of the other maintainers/team members, such behaviour isn’t acceptable. 
+5. Leaking pre-release features, pre-development screenshots/renders/concepts, confidential conversations from the maintainer chat isn’t acceptable as well, your maintainership will be cancelled without even a prior notice.
+6. Providing a List of FAQ’s (Frequently Asked Questions) is recommended, but not mandatory. It is encouraged since it saves time, users can read it themselves.
+7. The Radiant Core Team holds the right to keep/suspend/cancel/reconsider your maintainership, if something isn’t feeling right.
+8. As a maintainer, you MUST use your own builds, simply building, making testers check the build and releasing won't make the cut. You MUST use your builds.
+
+XDA Related things: 
+1. You must follow the XDA Thread format given.
+2. If you choose to have an XDA Thread, keep it up to date atleast every 2 months at minimum.
+3. We would recommend having a single Telegraph/reserved comment on the XDA Thread, with keeping your device changelogs up to date. 
+4. Please Follow the Following Format for the Telegraph
+Radiant (version no) – Date
+Source Changelog: (attach link from the Radiant Channel)
+	Device Changelog: 
+Follow this for Reference: https://forum.xda-developers.com/t/rom-12-official-project-radiant.4307149/#post-85342177
+4. You can choose to Provide a List of FAQ’s (Frequently Asked Questions) on the thread itself
+For Reference: https://forum.xda-developers.com/t/rom-12-official-project-radiant.4307149/post-85342273
+5. You can keep updating the same thread even on Android version Bump, you don’t need to create a separate thread for every android version, although you can choose to keep previous changelogs in a Telegraph File/on the same thread.  
+6. XDA Threads aren't mandatory.
